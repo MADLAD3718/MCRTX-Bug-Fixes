@@ -26,3 +26,4 @@
  - Fixed Mooshroom mushrooms failing to render
  - Fixed tamed Cats not having a shadow
  - Fixed Breeze texture failing to animate
+ - Fixed Wither shield overlay failing to animate, incorrect flash timings ([MCPE-141530](https://bugs.mojang.com/browse/MCPE-141530)) 
