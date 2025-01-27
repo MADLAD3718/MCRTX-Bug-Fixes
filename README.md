@@ -25,3 +25,4 @@
  - Made Snow Golem pumpkin head ray traced
  - Fixed Mooshroom mushrooms failing to render
  - Fixed tamed Cats not having a shadow
+ - Fixed Breeze texture failing to animate
