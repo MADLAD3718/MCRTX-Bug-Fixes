@@ -27,3 +27,4 @@
  - Fixed tamed Cats not having a shadow
  - Fixed Breeze texture failing to animate
  - Fixed Wither shield overlay failing to animate, incorrect flash timings ([MCPE-141530](https://bugs.mojang.com/browse/MCPE-141530)) 
+ - Fixed enchanted Trident using a black texture when thrown
